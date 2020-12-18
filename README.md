@@ -14,5 +14,5 @@ This was the largest project that I had worked on up to my sophomore year of col
     
     -Factory Design patttern: I used factory to create all Entities of different types (Powerups, Ships/Pirate Ships, Monsters)
     
-    -Strategy Design pattern: (Not implemented correctly) But intention was to allow for strategy of different Pirate and monster types
+    -Strategy Design pattern: (Poorly implemented) But intention was to allow for strategy of different Level, Pirate, and monster types
     
